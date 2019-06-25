@@ -1,4 +1,4 @@
-""" Script à exécuter pour jouer au jeu du labyrinthe, modif git"""
+""" Script à exécuter pour jouer au jeu du labyrinthe"""
 from Carte import Carte
 import os
 import pickle
