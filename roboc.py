@@ -1,5 +1,6 @@
 """ Script à exécuter pour jouer au jeu du labyrinthe
-Complétion de la doc
+Complétion de la 
+Modif feature 1
 """
 from Carte import Carte
 import os
