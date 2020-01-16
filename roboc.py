@@ -1,4 +1,6 @@
-""" Script à exécuter pour jouer au jeu du labyrinthe"""
+""" Script à exécuter pour jouer au jeu du labyrinthe
+Complétion de la doc
+"""
 from Carte import Carte
 import os
 import pickle
