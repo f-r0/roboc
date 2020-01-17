@@ -1,5 +1,6 @@
 """ Script à exécuter pour jouer au jeu du labyrinthe
 Complétion de la doc
+Nouveau test de commit
 """
 from Carte import Carte
 import os
